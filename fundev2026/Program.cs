@@ -12,7 +12,7 @@ if (type == "gold")
     baseDiscount = bill * 0.20;
 
     if (bill > 100)
-        extraDiscount = bill * 0.05;
+        extraDiscount = bill *      0.05;
 }
 else if (type == "silver")
 {
